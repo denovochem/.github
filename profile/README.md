@@ -16,7 +16,7 @@ We also maintain a couple of open-source cheminformatics libraries. These aren't
 
 - **[ChollaChem](https://github.com/denovochem/cholla_chem)** — Python library for converting chemical names to SMILES. Integrates multiple resolvers, corrects OCR artifacts and typos, and handles edge cases like inorganic shorthand and peptide notation.
 - **[AgaveChem](https://github.com/denovochem/agave_chem)** — Python library for atom-to-atom mapping of chemical reactions. Combines a neural mapper (fine-tuned ALBERT trained on ~1M USPTO reactions) with deterministic MCS and template-based methods in a composable pipeline.
-- **[rdchiral_plus](https://github.com/denovochem/rdchiral_plus)** — A fork of the popular [rdchiral](https://github.com/connorcoley/rdchiral) library, which is used to generate accurate stereochemical outcomes for rdkit reactions. rdchiral-plus improves both the speed and correctness of the base library.
+- **[rdchiral_plus](https://github.com/denovochem/rdchiral_plus)** — A fork of the popular [rdchiral](https://github.com/connorcoley/rdchiral) library, which is used to generate accurate stereochemical outcomes for rdkit reactions. rdchiral-plus shows improvements in both the speed and correctness compared to the base library.
 
 ## Contact
 
